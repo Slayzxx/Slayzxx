@@ -1,16 +1,26 @@
-## Hi there 👋
+### Salut, moi c'est Nathan 👋
 
-<!--
-**Slayzxx/Slayzxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiant en **BTS SIO option SLAM** à **My Digital School Bordeaux** (après un Bac STI2D option SIN). J'aime coder, créer des sites web et comprendre comment les applications fonctionnent.
 
-Here are some ideas to get you started:
+🎯 **Actuellement :** Je recherche une **alternance en développement web / logiciel sur Bordeaux** et ses alentours.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Mes compétences
+
+**Ce que je maîtrise :**
+* **Web :** HTML5, CSS3, JavaScript
+* **Outils :** Git, GitHub, VS Code
+
+**Les notions que j'ai déjà pratiquées :**
+* **Langages & Back-end :** Java, Python, C++, Node.js, SQL
+* **CMS :** WordPress
+
+---
+
+### 🌐 Mes projets & Contact
+
+* **Mon Portfolio :** [portfolio-bts-sio-nathan.netlify.app](https://portfolio-bts-sio-nathan.netlify.app/)
+* **LinkedIn :** [Nathan Van-Eckhoudt](https://www.linkedin.com/) *(pense à remplacer par le lien exact de ton profil)*
+
+N'hésitez pas à jeter un œil à mes dépôts ou à me contacter sur LinkedIn pour échanger !
